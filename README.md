@@ -18,11 +18,11 @@
 
 ## 🔥 GitHub Stats
 
-![Nathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NgwaNathan\&show_icons=true\&theme=tokyonight\&hide_border=true)
+![Nathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NgwaNathan\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true\&include_all_commits=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=NgwaNathan\&theme=tokyonight\&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NgwaNathan\&layout=compact\&theme=tokyonight\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NgwaNathan\&layout=compact\&theme=tokyonight\&hide_border=true\&langs_count=8)
 
 ---
 
@@ -30,7 +30,7 @@
 
 * 🏦 **PocketLoya** — full-stack fintech platform (frontend + backend)
 * 💳 **Kunshort Django Payment** — open-source payment service built with Django
-* 🏨 **iHakken** — AI-powered hospitality management platform; contributed to frontend development, dashboards, and user experience for hotels, restaurants, and multi-location businesses ([iHakken][1])
+* 🏨 **iHakken** — AI-powered hospitality management platform; contributed to frontend development, dashboards, and user experience for hotels, restaurants, and multi-location businesses
 * 📄 **Intelligent Reader Engine** — configurable parsing and extraction pipeline
 
 ---
@@ -65,5 +65,3 @@
 ## 💬 Motto
 
 > Build daily. Improve constantly. Ship fearlessly.
-
-[1]: https://ihakken.com/?utm_source=chatgpt.com "iHakken - All-in-One Hospitality Management Platform | Hotels ..."
