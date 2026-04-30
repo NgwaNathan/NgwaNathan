@@ -16,13 +16,17 @@
 
 ---
 
-## 🔥 GitHub Stats
+## 📊 GitHub Statistics
 
-![Nathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NgwaNathan\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true\&include_all_commits=true)
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NgwaNathan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B9D&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NgwaNathan&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF6B9D&fire=FF6B9D&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=NgwaNathan\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NgwaNathan\&layout=compact\&theme=tokyonight\&hide_border=true\&langs_count=8)
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgwaNathan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=NgwaNathan&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF6B9D&point=FFFFFF&area=true" alt="Activity Graph"/>
+</div>
 
 ---
 
@@ -30,7 +34,7 @@
 
 * 🏦 **PocketLoya** — full-stack fintech platform (frontend + backend)
 * 💳 **Kunshort Django Payment** — open-source payment service built with Django
-* 🏨 **iHakken** — AI-powered hospitality management platform; contributed to frontend development, dashboards, and user experience for hotels, restaurants, and multi-location businesses
+* 🏨 **iHakken** — AI-powered hospitality management platform; contributed to frontend dashboards and user experience
 * 📄 **Intelligent Reader Engine** — configurable parsing and extraction pipeline
 
 ---
