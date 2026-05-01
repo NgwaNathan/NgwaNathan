@@ -20,12 +20,22 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NgwaNathan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B9D&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NgwaNathan&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF6B9D&fire=FF6B9D&currStreakLabel=00D9FF" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=NgwaNathan&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF6B9D&fire=FF6B9D&currStreakLabel=00D9FF&cache_seconds=1&v=1" />
 </div>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgwaNathan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=NgwaNathan&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF6B9D&point=FFFFFF&area=true" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/NgwaNathan/NgwaNathan/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 ---
