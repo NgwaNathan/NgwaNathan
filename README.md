@@ -20,7 +20,7 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NgwaNathan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B9D&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=NgwaNathan&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF6B9D&fire=FF6B9D&currStreakLabel=00D9FF&cache_seconds=1&v=1" />
+<img src="https://streak-stats.demolab.com?user=NgwaNathan&theme=radical&cache_seconds=1&v=2" />
 </div>
 
 <div align="center">
